@@ -78,4 +78,4 @@ maximum marks without using builtin functions.
 ![maximum3.png](./images/maximum3.png)
 
 ## Result:
-Thus the program to find the maximum of given numbers from the list is written and verified using python programming.3
+Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
